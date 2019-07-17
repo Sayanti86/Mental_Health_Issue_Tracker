@@ -4,6 +4,7 @@ Contributors:
 - [Marcelle Chiriboga](https://github.com/mchiriboga)
 - [Sayanti Ghosh](https://github.com/Sayanti86)
 
+### [The app](https://marcelle-sayanti.shinyapps.io/mental_health_issue_tracker/)
 
 ### Overview
 
